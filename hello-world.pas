@@ -1,10 +1,10 @@
 program helloworld;
-uses crt, dos,use32;
+uses crt, dos{,use32};
 var mm,dd,yy,hh,mi,ss,hos,dow: word;
 
 begin
   textbackground(black);
-  textcolor(lightCyan);
+    textcolor(lightCyan);
   clrscr;
   getDate(yy,mm,dd,dow);
   gettime(hh,mi,ss,hos);

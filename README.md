@@ -1,3 +1,4 @@
+#Hello-World
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kf5qeo/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -23,6 +24,6 @@ Syntax highlighted code block
   2. Version 2.1
 2. Shows the classic hello-world and the date and time.
 
-**Bold** and _Italic_ and `Code` text
-
+**Bold** and _Italic_ and `Code`2.1
+  2. FPC / Linux
 [Link]http://www.kf5qeosshack.com/[Image]kf5qeo's shack
