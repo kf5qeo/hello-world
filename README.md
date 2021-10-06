@@ -3,14 +3,9 @@
 
 You can use the [editor on GitHub](https://github.com/kf5qeo/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Jekyll](https://jekyllrb.com/).
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -24,8 +19,9 @@ Syntax highlighted code block
   2. Version 2.1
 2. Shows the classic hello-world and the date and time.
 
-**Bold** and _Italic_ and `Code`2.
+**Bold** and _Italic_ and `Code 2`.
   1. FPC / Linux
-  2. Tested on Linux Mint, and Ubuntu.
-[Link]http://www.kf5qeo.com/[/link]
+  2. **Tested** _on_ `Linux Mint`, _and_ `Ubuntu`.
+### [My BBS](http://www.kf5qeo.com/) and my [Web Site](http://home.kf5qeo.com/)
+
 
