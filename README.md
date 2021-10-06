@@ -24,6 +24,8 @@ Syntax highlighted code block
   2. Version 2.1
 2. Shows the classic hello-world and the date and time.
 
-**Bold** and _Italic_ and `Code`2.1
-  2. FPC / Linux
-[Link]http://www.kf5qeosshack.com/[Image]kf5qeo's shack
+**Bold** and _Italic_ and `Code`2.
+  1. FPC / Linux
+  2. Tested on Linux Mint, and Ubuntu.
+[Link]http://www.kf5qeo.com/[/link]
+
